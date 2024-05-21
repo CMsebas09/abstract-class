@@ -1,4 +1,5 @@
-﻿using System;  // Importa el espacio de nombres System que contiene las clases fundamentales de C#
+//Sebastian Borja
+using System;  // Importa el espacio de nombres System que contiene las clases fundamentales de C#
 
 namespace Animales  // Define un espacio de nombres llamado Animales
 {
